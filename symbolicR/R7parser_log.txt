@@ -1,0 +1,1 @@
+Robotran XML parser error : MBS_anchor.c : bodyname <Slider> not found 
